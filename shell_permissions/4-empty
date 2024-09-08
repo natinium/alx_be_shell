@@ -1,3 +1,3 @@
 #!/bin/bash
 touch hell
-exit 0o
+exit 0
